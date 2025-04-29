@@ -6,7 +6,7 @@ export const games = [
       "Écoute, regarde, retiens… et reproduis la bonne séquence sans te tromper ",
     imageUrl: "steve.png",
     link: "https://pouet-pouet-memory.netlify.app/",
-    category: "Stéve, Halime et George",
+    category: "Stéve, Halima et George",
   },
   {
     id: "2",
